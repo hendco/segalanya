@@ -1,0 +1,2 @@
+# segalanya
+Mainkan
